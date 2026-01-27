@@ -7,6 +7,7 @@
 - **Matrix-2020-Counter.java** - 2020年省赛真题：在0/2矩阵中统计"2020"模式出现次数
 - **Maze-BFS-30x50.java** - 迷宫最短路径BFS算法（30×50迷宫）
 - **SevenSegment-Count.java** - 2020年省赛真题：七段码连通方案计数
+- **Line-Count.java** - 2020年省赛真题：20×21网格点确定的不同直线数量
 
 ## 运行方法
 
@@ -14,6 +15,7 @@
 2. 运行：`java 文件名`
 
 ## 更新记录
-- Matrix-2020-Counter.java - 刚刚创建
-- Maze-BFS-30x50.java - 昨天创建
-- SevenSegment-Count.java - 新增，七段码连通方案计数
+- Line-Count.java - 新
+- Matrix-2020-Counter.java - 
+- Maze-BFS-30x50.java - 
+- SevenSegment-Count.java - 
