@@ -15,7 +15,7 @@
 2. 运行：`java 文件名`
 
 ## 更新记录
-- Line-Count.java - 新
-- Matrix-2020-Counter.java - 
-- Maze-BFS-30x50.java - 
-- SevenSegment-Count.java - 
+- Line-Count.java 
+- Matrix-2020-Counter.java 
+- Maze-BFS-30x50.java 
+- SevenSegment-Count.java 
