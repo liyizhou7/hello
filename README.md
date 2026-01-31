@@ -8,6 +8,8 @@
 - **Maze-BFS-30x50.java** - 迷宫最短路径BFS算法（30×50迷宫）
 - **SevenSegment-Count.java** - 2020年省赛真题：七段码连通方案计数
 - **Line-Count.java** - 2020年省赛真题：20×21网格点确定的不同直线数量
+- **Goods-Arrangement.java** - 2021年省赛真题：货物摆放方案计数
+- **Shortest-Path-Dijkstra.java** - 2021年省赛真题：特殊图的最短路径（Dijkstra算法）
 
 ## 运行方法
 
@@ -18,4 +20,6 @@
 - Line-Count.java 
 - Matrix-2020-Counter.java 
 - Maze-BFS-30x50.java 
-- SevenSegment-Count.java 
+- SevenSegment-Count.java
+- Goods-Arrangement.java
+- Shortest-Path-Dijkstra.java
